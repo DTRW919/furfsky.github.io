@@ -866,7 +866,7 @@ const data = {
     */
     {
       name: "Toasted_Breaad",
-      role: "Moderator",
+      role: "Retired Moderator",
       quote: "if you do not like bread you shoudn't exist",
     },
     {
